@@ -1,0 +1,28 @@
+.header {
+    text-align:center;
+    font-weight:bold;
+}
+.rules {
+    text-align:center;
+    font-weight:bold;
+}
+.container {
+    text-align:center;
+    font-weight:bold;
+}
+.start {
+    text-align:center;
+}
+.footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:#343a40;
+    color:black;
+    text-align:center;
+    font-size:25px;
+    left:0;
+}
+.jumbotron {
+    background-image: url("assets/images/bg.jpg");
+}
