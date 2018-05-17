@@ -1,6 +1,12 @@
 .header {
     text-align:center;
     font-weight:bold;
+    background-color:#343a40;
+    color:white;
+}
+p {
+    font-size:15px;
+
 }
 .rules {
     text-align:center;
@@ -18,11 +24,11 @@
     bottom:0;
     width:100%;
     background-color:#343a40;
-    color:black;
+    color:white;
     text-align:center;
     font-size:25px;
     left:0;
 }
 .jumbotron {
-    background-image: url("assets/images/bg.jpg");
+    background-color:white;
 }
